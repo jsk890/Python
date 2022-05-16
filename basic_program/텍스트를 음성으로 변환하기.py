@@ -24,4 +24,4 @@ with open(file_path, 'rt', encoding='utf-8') as f:
     read_file = f.read()
     
 tts = gTTS(text = read_file, lang='ko')
-tts.save(r"basic_program\나의텍스트.mp3")
+tts.save(r"basic_program\나의텍스트.mp4")
