@@ -14,3 +14,14 @@
 - 정규식 표현
 
 ![image](https://user-images.githubusercontent.com/55019081/168529171-c8f97cec-b198-412c-87a9-4c6382211d4f.png)
+
+### 텍스트를 음성으로 변환하여 저장하기
+- gtts, playsound 모듈 설치
+- pip install gtts
+- pip install playsound
+- pip 명령어가 작동되지 않는다면 파이썬 설치 단계에서 PATH경로 지정을 해주지 않았으므로 재설치 필요
+- with로 파일 경로 읽고 오픈 및 클로즈
+- 파일 저장
+- ![image](https://user-images.githubusercontent.com/55019081/168547087-5f9d4993-ed02-4653-8167-956b1918e1d0.png)
+- 
+https://user-images.githubusercontent.com/55019081/168547104-79695e90-45bc-4dca-b104-53319c0b20f9.mp4
